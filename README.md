@@ -1,3 +1,7 @@
+<!-- header -->
+<p align='center'>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timegradient&height=200&section=header&text=Welcome+to+Chanwoo's+Github!&fontSize=40&animation=fadeIn"/>
+</p>
 # 양찬우 (Yang Chanwoo) 👋
 
 효율을 찾아내는 과정에서 보람을 느끼는 개발자입니다.  
@@ -32,12 +36,6 @@ AI를 처음 접했지만 빠른 학습 능력과 실행력으로 복잡한 문�
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-F99000?style=for-the-badge&logo=huggingface&logoColor=white)
 ![vLLM](https://img.shields.io/badge/-vLLM-000000?style=for-the-badge)
 
-### Models
-![BERT](https://img.shields.io/badge/-BERT-FF9900?style=for-the-badge)
-![ELECTRA](https://img.shields.io/badge/-ELECTRA-000000?style=for-the-badge)
-![RoBERTa](https://img.shields.io/badge/-RoBERTa-000000?style=for-the-badge)
-![Gemma](https://img.shields.io/badge/-Gemma-000000?style=for-the-badge)
-
 ### Tools
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
@@ -46,6 +44,12 @@ AI를 처음 접했지만 빠른 학습 능력과 실행력으로 복잡한 문�
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ---
+<!-- 사용한 언어 순위 카드 -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanwooyang1&layout=compact&theme=algolia)
+<!-- GitHub Stats Card -->
+[![Chanwooyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanwooyang1&show_icons=true&theme=tokyonight)](https://github.com/chanwooyang1/github-readme-stats)
+<!-- solved.ac 프로필 -->
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=moomsss)](https://solved.ac/moomsss)
 
 ## 📫 Contact 
 - **Email:** moomsss@naver.com
