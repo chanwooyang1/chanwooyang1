@@ -56,6 +56,6 @@
 
 ## 📫 Contact 
 * **Email:** [moomsss@naver.com](mailto:moomsss@naver.com)
-* **GitHub:** [chanwooyang1](https://github.com/chanwooyang1)
+
 
 <p align="right">(<a href="#top">Back to top</a>)</p>
